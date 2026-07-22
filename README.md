@@ -39,7 +39,9 @@ The design includes:
 
 ## Interactive Prototype
 
-[View the interactive prototype in Figma](Update project README)
+[View the interactive prototype in Figma](https://www.figma.com/proto/t2GeASiRTf35WzDVDtcUi0/Untitled?node-id=57-9&starting-point-node-id=57%3A9&t=V6HlCiDQp0WGxWmQ-1)
+[View the interactive prototype in Figma](https://www.figma.com/proto/xKozk1J0NazJm9faWrku9h/Untitled--Copy-?node-id=2010-17&p=f&t=MQQJaXZbnniZJ4pV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2010%3A17)
+
 
 *Note: A free Figma account may be required to view the prototype.*
 
