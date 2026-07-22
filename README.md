@@ -33,6 +33,10 @@ The design includes:
 
 [View the complete desktop design in PDF](biz-consulting-desktop-design.pdf)
 
+## Full Mobile Design
+
+[View the complete mobile design in PDF](biz-consulting-mobile-design.pdf)
+
 ## Interactive Prototype
 
 [View the interactive prototype in Figma](Update project README)
