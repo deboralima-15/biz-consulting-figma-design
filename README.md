@@ -48,3 +48,7 @@ The design includes:
 ## About the Project
 
 This project was developed as part of my Diploma of Information Technology. It demonstrates my ability to plan and design a multi-page business website using a consistent visual identity, navigation structure and responsive layouts.
+
+## Project Preview
+
+![Biz Consulting homepage](biz-consulting-homepage.png)
